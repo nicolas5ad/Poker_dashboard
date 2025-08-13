@@ -4,7 +4,7 @@ Dashboard interactivo para el seguimiento y análisis de partidas de poker entre
 
 ## 🚀 Ver Dashboard
 
-**[🎮 Acceder al Dashboard](https://tu-app-poker.streamlit.app)** *(Reemplaza con tu URL real)*
+**[🎮 Acceder al Dashboard](https://tu-app-poker.streamlit.app)** 
 
 ## 📊 Características
 
@@ -118,8 +118,3 @@ Si encuentras algún problema o tienes sugerencias:
 - Reporta el issue en este repositorio
 - O contacta directamente al administrador
 
----
-
-**🎯 ¡Que gane el mejor!** 🃏
-
-*Dashboard creado con ❤️ para el grupo de poker*
