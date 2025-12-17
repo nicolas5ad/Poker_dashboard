@@ -22,8 +22,7 @@ def load_data_from_sheets():
     """
     try:
         # Tu URL de Google Sheets convertida a formato CSV
-        sheet_url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vS6eEcVMXlP__-DRkLq2btaRgOA6c5-a8Pdg0K_KaIcxxDemfGF_GquQyY6dXnav6jobGORIoAcpSgC/pub?gid=0&single=true&output=csv"
-        
+        sheet_url = "https://docs.google.com/spreadsheets/d/1t1dgP0ztguLs4x6JFVTicjjBW1_SwjMBZChV5at-W6k/edit?gid=912840787#gid=912840787"
         # Carga los datos directamente desde Google Sheets
         df = pd.read_csv(sheet_url)
         
